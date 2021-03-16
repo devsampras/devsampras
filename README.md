@@ -8,4 +8,6 @@
 - 💬 Ask me about C#, VB.NET, Windows Forms, ASP.NET, MVC, BLAZOR and some other things that I don't remember😅
 - 📫 How to reach me: https://twitter.com/DevSampras <Tag me or send a DM>
 <!--- ⚡ Fun fact: ...-->
+  
+  ### 🔴If you are a Java developer don't abandon this repo, abandon Java
 
